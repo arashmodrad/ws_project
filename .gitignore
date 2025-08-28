@@ -5,6 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
+# Folders
+ollama_models/*
 
 # Distribution / packaging
 .Python
